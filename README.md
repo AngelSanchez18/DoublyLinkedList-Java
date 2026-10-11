@@ -9,5 +9,5 @@ Este repositorio contiene dos implementaciones distintas de una **Lista Doblemen
 ---
 ## DPOO
 **Hecho por:**
-* Sánchez Rámirez Angel Alberto
 * Mejía Ávila Ingrid Jaqueline
+* Sánchez Rámirez Angel Alberto
